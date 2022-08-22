@@ -17,7 +17,7 @@ A equipe Tetris é composta pelos seguintes estudantes do 5º semestre de Banco 
 - ***Product Owner***
   - [Valdiney José do Nascimento](https://github.com/Valdineynascimento) [<center><img src="https://github.com/equipe-tetris/itseasy/blob/master/resource/images/linkedin_logo.png" /></center>](https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/)
 </div>
-- ***Scrum Master***
-  - [Jefferson Tavares de Araújo](https://github.com/jefferson-tavares-araujo) [<center><img src="https://github.com/equipe-tetris/itseasy/blob/master/resource/images/linkedin_logo.png" /></center>](https://www.linkedin.com/in/jeffersontavaresaraujo/)
+- ***Product Owner***
+  - [Valdiney José do Nascimento](https://github.com/Valdineynascimento) [<center><img src="https://github.com/equipe-tetris/itseasy/blob/master/resource/images/linkedin_logo.png" /></center>](https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/)
 </div>
 <br>
