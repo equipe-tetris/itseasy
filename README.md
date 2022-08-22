@@ -15,6 +15,6 @@
 A equipe Tetris é composta pelos seguintes estudantes do 5º semestre de Banco de Dados pela FATEC de São José dos Campos:
 
 - ***Product Owner***
-  - [Valdiney José do Nascimento](https://github.com/Valdineynascimento) [<center><img src="https://github.com/equipe-tetris/ConsultCAR/blob/master/resource/images/linkedin_logo.png" /></center>](https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/)
+  - [Valdiney José do Nascimento](https://github.com/Valdineynascimento) [<center><img src="https://github.com/equipe-tetris/itseasy/blob/master/resource/images/linkedin_logo.png" /></center>](https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/)
 </div>
 <br>
