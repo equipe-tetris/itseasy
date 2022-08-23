@@ -32,7 +32,6 @@ A equipe Tetris é composta pelos seguintes estudantes do 5º semestre de Banco 
 Desenvolver uma aplicação web que permita ajudar falantes de inglês em um segundo idioma a compreender claramente os manuais técnicos escritos em inglês a partir do ASD-STE100 Inglês Técnico Simplificado ( STE ) é um idioma controlado desenvolvido no início dos anos 1980 (como Inglês Simplificado AECMA).
 Foi inicialmente aplicável à aviação comercial. Em seguida, tornou-se um requisito para projetos de defesa, incluindo veículos terrestres e marítimos. Como consequência, hoje, muitos manuais de manutenção são escritos em STE.
 
-Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.
 </div>
 <br>
 
