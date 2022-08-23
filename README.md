@@ -2,7 +2,7 @@
 
 # Seja bem vindo ao  ITSeasy !!!  ![apple-touch-icon](https://user-images.githubusercontent.com/80490875/186041138-68bfc87d-b2cb-4921-8939-cb5358e14c05.png)
   [apple-touch-icon]
- (/resource/images/itseasy_logo.png "LogoProjeto")
+ 
 
 </div>
 <div style="text-align:center">
