@@ -21,14 +21,14 @@ A equipe Tetris é composta pelos seguintes estudantes do 5º semestre de Banco 
 - ***Scrum Master***
   - [Jefferson Tavares de Araújo](https://github.com/jefferson-tavares-araujo) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/jeffersontavaresaraujo/)
 - ***Team Dev :***
-  - [Alexandre Eufrasio](https://github.com/alexandreeufrazio) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/alexia-karine-silva-5b0a79116/)
+  - [Alexandre Eufrasio](https://github.com/alexandreeufrazio) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/in/alexandreeufrazio/)
   - [Renata Garcia Nonato](https://github.com/RenataGarciaNonato) [<center><img src="https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/linkedin.png" /></center>](https://www.linkedin.com/mwlite/in/renata-garcia-2a84821b7)
   
 </div>
 <br>
 
 ## :pushpin: Objetivo  
-Desenvolver uma aplicação web que permita ## :pushpin: Objetivo  
+
 Desenvolver uma aplicação web que permita ajudar falantes de inglês em um segundo idioma a compreender claramente os manuais técnicos escritos em inglês a partir do ASD-STE100 Inglês Técnico Simplificado ( STE ) é um idioma controlado desenvolvido no início dos anos 1980 (como Inglês Simplificado AECMA).
 Foi inicialmente aplicável à aviação comercial. Em seguida, tornou-se um requisito para projetos de defesa, incluindo veículos terrestres e marítimos. Como consequência, hoje, muitos manuais de manutenção são escritos em STE.
 
