@@ -1,6 +1,7 @@
 ﻿<div style = "text-align:center">
 
-# Seja bem vindo ao  ITSeasy ![LogoProjeto](/resource/images/itseasy_logo.png "LogoProjeto")
+# Seja bem vindo ao  ITSeasy !![apple-touch-icon](https://user-images.githubusercontent.com/80490875/186040698-6c9418a8-640e-4fa4-b139-efeefa23560e.png)
+ (/resource/images/itseasy_logo.png "LogoProjeto")
 
 </div>
 <div style="text-align:center">
