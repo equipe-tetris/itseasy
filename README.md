@@ -72,8 +72,8 @@ Professores e alunos do curso superior em Técnologia em Mecânica de aeronaves 
 - [Modelo Conceitual do Banco de Dados](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/MER_ATUAL.jpeg)
 - [Modelo Lógico do Banco de Dados](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/MER_LOGICO.jpeg)
 - [Sprint planning](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/SprintReleasePlan.PNG)
-- [BSC](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/documentacao/BSC_Scrumcloud-novo.pdf)
-- [Help-Desk](https://newaccount1637966996475.freshdesk.com/support/tickets/new)
+
+
 
 <!--
 - [Relatório de Gestão de Serviços](incluir o link aqui)
