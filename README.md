@@ -56,8 +56,6 @@ Professores e alunos do curso superior em Técnologia em Mecânica de aeronaves 
     - Programação: Javascript
 
 - BootStrap
-- ReactJS
-- Hibernate
 - Spring Framework
 - Banco de Dados: MySQL 
 
