@@ -69,7 +69,7 @@ Professores e alunos do curso superior em Técnologia em Mecânica de aeronaves 
 - [Estórias de Usuário](https://github.com/equipe-tetris/itseasy/blob/master/resource/images/userstories/User-Stories.md)
 - [Product Backlog](https://github.com/equipe-tetris/itseasy/blob/master/resource/images/product-backlog/Product-Backlog.md)
 - [Prototipação](https://github.com/equipe-tetris/itseasy/tree/master/resource/images/imagem)
-- [Modelo Conceitual do Banco de Dados](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/MER_ATUAL.jpeg)
+- [Modelo Conceitual do Banco de Dados](https://github.com/equipe-tetris/itseasy/blob/master/resource/images/der/DER.md)
 - [Modelo Lógico do Banco de Dados](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/MER_LOGICO.jpeg)
 - [Sprint planning](https://github.com/equipe-tetris/scrum-cloud-backend/blob/master/resource/images/SprintReleasePlan.PNG)
 
